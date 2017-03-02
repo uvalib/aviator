@@ -1,7 +1,6 @@
 # Aviator Exhibition
 
-[![license][license-image]][license-url] [![Build Status][travis-image]][travis-url]
-> Faulkner exhibit marketing page
+[![license][license-image]][license-url] 
 
 ## Credits
 
