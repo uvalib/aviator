@@ -1,4 +1,4 @@
-# Faulkner Exhibition
+# Aviator Exhibition
 
 [![license][license-image]][license-url] [![Build Status][travis-image]][travis-url]
 > Faulkner exhibit marketing page
