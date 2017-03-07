@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "faulkner",
+  "name": "aviator",
   "launch_path": "/index.html",
-  "description": "Faulkner exhibit marketing page",
+  "description": "Aviator exhibit marketing page",
   "icons": {
     "128": "/images/touch/icon-128x128.png"
   },
@@ -18,8 +18,8 @@
   },
   "locales": {
     "en": {
-      "name": "faulkner",
-      "description": "Faulkner exhibit marketing page"
+      "name": "aviator",
+      "description": "Aviator exhibit marketing page"
     }
   }
 }

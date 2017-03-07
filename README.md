@@ -1,6 +1,6 @@
 # Aviator Exhibition
 
-[![license][license-image]][license-url] 
+[![license][license-image]][license-url]
 
 ## Credits
 
@@ -45,13 +45,13 @@ This will give you file watching, browser synchronisation, auto-rebuild, CSS inj
 $ gulp serve
 ```
 
-**Deploy to Development - https://uvalib.github.io/faulkner/**
+**Deploy to Development - https://uvalib.github.io/aviator/**
 
 You can easily deploy your site build to GitHub pages with the command
 ```shell
 $ gulp deploy-to-test
 ```
-**Deploy to Production - http://faulkner2017.lib.virginia.edu/**
+**Deploy to Production - http://aviator.lib.virginia.edu/**
 
 You can easily deploy your site build to UVA Libraries production server with the command
 ```shell
@@ -70,11 +70,11 @@ $ htmlproofer ./_site
 ```
 
 [license-image]: https://img.shields.io/badge/license-ISC-blue.svg
-[license-url]: https://github.com/uvalib/faulkner/blob/master/LICENSE
-[travis-image]: https://travis-ci.org/uvalib/faulkner.svg?branch=master
-[travis-url]: https://travis-ci.org/uvalib/faulkner
+[license-url]: https://github.com/uvalib/aviator/blob/master/LICENSE
+[travis-image]: https://travis-ci.org/uvalib/aviator.svg?branch=master
+[travis-url]: https://travis-ci.org/uvalib/aviator
 
 ## Content Writers
-1. Edit the files in the [master branch](https://github.com/uvalib/faulkner/tree/master)
+1. Edit the files in the [master branch](https://github.com/uvalib/aviator/tree/master)
 2. Build will automatically begin
-3. View your changes in production at http://faulkner2017.lib.virginia.edu/
+3. View your changes in production at http://aviator.lib.virginia.edu/
