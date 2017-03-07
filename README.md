@@ -1,6 +1,7 @@
 # Aviator Exhibition
 
-[![license][license-image]][license-url]
+[![license][license-image]][license-url] [![Build Status][travis-image]][travis-url]
+> Aviator exhibit marketing page
 
 ## Credits
 
