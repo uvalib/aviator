@@ -33,7 +33,7 @@ To install this project, you'll need the following things installed on your mach
 
 **Development mode**
 
-To build your site run the following command (if you get an error about a different version of jekyll, prepend the commannd with 'bundle exec'
+To build your site run the following command (if you get an error about a different version of jekyll, prepend the commannd with 'bundle exec')
 
 ```shell
 $ gulp
