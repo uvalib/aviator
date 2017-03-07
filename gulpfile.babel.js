@@ -10,7 +10,7 @@ import rename from 'gulp-rename';
 
 const $ = gulpLoadPlugins();
 
-// Test our website accessibility 
+// Test our website accessibility
 gulp.task('accessibility', function() {
   return gulp.src('./_site/**/*.html')
     .pipe(access({
@@ -136,7 +136,7 @@ gulp.task('serve', ['jekyll-build-dev'], () => {
   gulp.watch('_scripts/**/*.js', ['scripts']);
 });
 
-// Generate service worker on faulkner2017.lib.virginia.edu
+// Generate service worker on aviator.lib.virginia.edu
 gulp.task('generate-service-worker-production', function(callback) {
   var path = require('path');
   var rootDir = '_site';
@@ -148,7 +148,7 @@ gulp.task('generate-service-worker-production', function(callback) {
   }, callback);
 });
 
-// Generate service worker on uvalib.github.io/faulkner
+// Generate service worker on uvalib.github.io/aviator
 gulp.task('generate-service-worker-gh-pages', function(callback) {
   var path = require('path');
   var rootDir = '_site';
@@ -156,7 +156,7 @@ gulp.task('generate-service-worker-gh-pages', function(callback) {
   swPrecache.write(path.join(rootDir, 'sw.js'), {
     staticFileGlobs: [rootDir + '/**/*.{js,html,css,png,jpg,gif,json}'],
     stripPrefix: rootDir,
-    replacePrefix: '/faulkner'
+    replacePrefix: '/aviator'
   }, callback);
 });
 
